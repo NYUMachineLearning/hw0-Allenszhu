@@ -10,6 +10,8 @@
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 
 
+<h1>Assignments</h1>
+
 1.Create a Heading right above this line &uarr; that says 'Assignments' 
 
 2.Create an ordered list detailing your first and last name, your favorite color, and the link to your GitHub repo. 
@@ -18,8 +20,9 @@ It should look something like this:
 
 
 1. Name:
-  * Anna Yeaton
-2. etc 
-  * etc  
-
+  * <i>Allen</i> <b>Zhu</b>
+2. Favorite Color:
+  * <u>Blue</u>
+3. Github link: https://github.com/Allenszhu   
+ 
 Once you are done, commit your changes, and push to GitHub. 
